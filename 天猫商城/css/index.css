@@ -206,6 +206,69 @@ float: left;
 	color: #000;
 	font-size: 14px;
 }
+.tm-ppt-left-left-both{
+	display: none;
+	width: 852px;
+	position: absolute;
+	left: 235px;
+	top: 198px;
+	background: #f2f2f2;
+}
+.tm-ppt-left-left-1-left{
+	width: 583px;
+	float: left;
+	background: white;
+}
+.tm-ppt-left-left-1-left p{
+	font-size: 14px;
+	color: #000;
+	font-weight: bold;
+	width: 70px;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.tm-ppt-left-left-1-left-left{
+	width: 493px;
+	height: 50px;
+	margin-left: 85px;
+	margin-top: -30px;
+}
+.tm-ppt-left-left-both .tm-ppt-left-left-1-left-left a {
+	font-size: 13px;
+	color: #666;
+	line-height: 22px;
+	float: left;
+	margin-left: 13px;
+}
+.tm-ppt-left-left-1-left-border{
+	width:500px;
+	border: dashed 1px;
+	margin:0px auto;
+	padding:0px;
+	color: #f2f2f2;
+	overflow:hidden;
+}
+.tm-ppt-left-left-1-right{
+	width: 209px;
+	float: left;
+	background: white;
+	margin-left: 30px;
+	margin-top: 10px;
+}
+.tm-ppt-left-left-1-right-right{
+	float: left;
+	margin-left: 30px;
+	background: #f2f2f2;
+}
+.tm-ppt-left-left-1-right-right img{
+	width: 73px;
+	height: 36.5px;
+/*	float: left;
+	margin-left: 20px;*/
+}
+.tm-ppt-left ul li:hover .tm-ppt-left-left-both{
+	display: block;
+}
 .tm-ppt-left ul li a:hover{
 	color: #c00;
 	text-decoration: none;
